@@ -1,0 +1,20 @@
+ h1 {
+     font-size: 6rem;
+     font-family: sans-serif;
+     color: limegreen;
+     text-align: center;
+ }
+ body{background-color: black;
+ }
+ .kanava{
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+ }
+ .linkki{
+     font-size: 5rem;
+     font-family: sans-serif;
+     color: limegreen;
+     text-align: center;
+    
+ }
